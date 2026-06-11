@@ -40,11 +40,12 @@ public class Unique_Visitor_Registration {
 		HashSet<String> participants = new HashSet<>();
 		//adding participants in it
 		
-		participants.add("Nandini");
+		
 		participants.add("Asmit");
 		participants.add("Ayush");
 		participants.add("Sanjeeb");
 		participants.add("Supriya");
+		participants.add("Nandini");
 		participants.add("Simuna");
 		participants.add("Satya");
 		participants.add("Surya");
